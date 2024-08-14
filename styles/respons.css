@@ -1,0 +1,192 @@
+@media screen and (max-width:576px ) {
+    .hambergur-menu{
+        display: block;
+    }
+    .nav-menu{
+        display: none;
+    }
+
+    .header-main{
+        flex-direction: column;
+        /* align-items: center; */
+        justify-content: center;
+        
+        
+    }
+    .header-text{
+      align-content: center;
+      /* width: 25%; */
+    }
+
+    .club{
+        width: 112px;
+        height: 27px;
+     
+    }
+    .app{
+        width: 112px;
+        height: 27px;
+    }
+    .tinsho{
+        left: 30px;
+    top: 1100px;
+    }
+     .pachso{
+        left: 230px;
+        top: 900px;
+     }
+
+     .main-img{
+        flex-direction: column;
+        margin-top:10px;
+        padding: 0% 25%;
+        gap: 10px;
+     }
+     .main-part{
+        /* border: 2px solid red; */
+        max-width: 100%;
+        height: 4650px;
+    }
+
+    .Run{
+        margin-top: 1000px;
+        flex-direction: column;
+       
+        align-items: center;
+
+    }
+    .run-pic{
+        width: 150%;
+        margin-left: 1px
+        
+
+    }
+    .join-btn{
+        width: 100%;
+    }
+
+    .card-1 .card-2 .card-3 .card-4{
+        width: 50%;
+    }
+
+    .Bmi{
+        /* width: 20%;  */
+       height:20%;
+        display: flex;
+flex-direction:column;
+/* align-items: center;
+justify-content: center; */
+    }
+
+    .bmi-form{
+        margin-top: 30%;
+    }
+
+    .bmi-text{
+        text-align: center;
+    }
+
+    .bmi-calculator{
+        margin-top: 10%;
+    }
+    .bmi-table{
+        margin-left: -50%;
+    }
+    .bmi-form{
+        width: 20%;
+        height: 50%;
+        margin-left: -70%;
+    }
+    .bmi-form input {
+        padding: 12px 10px 12px 10px;
+    }
+    .selector1{
+        padding: 12px 10px 12px 110px;
+    }
+    .ww{
+        margin-top: 10%;
+        padding: 12px 50px 12px 170px; 
+    }
+
+    .team-gallary1{
+        display: flex;
+        flex-direction: column;
+        /* grid-template-columns: repeat(3,1fr); */
+        border-radius: 18px;
+        align-items: center;
+         /* height: 1640px; */
+       
+    }
+
+    .picture{
+        width: 176px;
+        height: 172px;
+        border-radius: 50%;
+        border: 5px solid rgba(0, 0, 0, 0.223);
+        text-shadow: 10ch;
+    }
+
+    /* .team-gallary{
+        margin-top: 100%;
+    } */
+
+    .team{
+        /* margin-top: 80%; */
+    }
+
+    .team1{
+        /* height: 2050px; */
+        
+    }
+    .team-gallary{
+        display: flex;
+        max-height: 2075px;
+        flex-direction: column;
+        /* grid-template-columns: repeat(3,1fr); */
+        border-radius: 18px;
+        align-items: center;
+         /* height: 1640px; */
+
+         max-width: 604px;
+         /* height: 604px; */
+       
+    }
+
+    .last1{
+        display: none;
+    }
+
+    .main-part{
+        height: 6700px;
+    }
+
+    .trainer{
+        margin-top: 150%;
+    }
+
+    .foter{
+        margin-top:-35%;
+        height: 789px;
+    }
+
+    .footer-container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .ftlast{
+        margin-top: 75%;
+    }
+
+    .get-star{
+        margin-left: -9%;
+    }
+
+    .get{
+        margin-left: -9%;
+    }
+    .ftlast{
+       
+        margin-left: -35%;
+    }
+}
